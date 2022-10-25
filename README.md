@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/45605680/197709570-8e545fb5-5209-465b-be93-7eda76aae5cf.jpg" alt="Manikandan" align="right" width="40%">
 
 
-## :wave: Hi there, I'm Manikandan Balasubramanian
+## Hi there, I'm Manikandan Balasubramanian
 DevOps for AI/ML @[ZOHO Corp](https://www.zoho.com/)
  
-## :superhero_man: About Me
+## About Me
 
 As an AI cybersecurity Engineer,  I'm responsible for AI security strategy and defining the best-in-class cybersec standards for our AI platform and the AI solutions built on top of it.
 
@@ -12,7 +12,7 @@ I started my career as a DevOps developer and I encountered problems in deployin
 Later as a Security and Privacy coordinator, I concentrated on privacy and compliance aspects of the ML/DL applications.
 
 
-## :compass: Find me on the web
+## Find me on the web
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Manikandan_Balasubramanian?theme=default&font=baloo&extension=null)
 
